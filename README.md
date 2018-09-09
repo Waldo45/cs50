@@ -14,3 +14,5 @@ HTML
 -tables
 -lists
 -headings
+-stylesheets
+-css files
